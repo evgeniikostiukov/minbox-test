@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculatorLib", "AreaCalculatorLib\AreaCalculatorLib.csproj", "{620C0E37-BE57-449D-B0B1-1836FFC1FAFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculatorLibUnitTests", "AreaCalculatorLibUnitTests\AreaCalculatorLibUnitTests.csproj", "{B4A8AC5E-EA5F-4F50-83A1-499FFCF0F3F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620C0E37-BE57-449D-B0B1-1836FFC1FAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620C0E37-BE57-449D-B0B1-1836FFC1FAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620C0E37-BE57-449D-B0B1-1836FFC1FAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620C0E37-BE57-449D-B0B1-1836FFC1FAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A8AC5E-EA5F-4F50-83A1-499FFCF0F3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A8AC5E-EA5F-4F50-83A1-499FFCF0F3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A8AC5E-EA5F-4F50-83A1-499FFCF0F3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A8AC5E-EA5F-4F50-83A1-499FFCF0F3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
